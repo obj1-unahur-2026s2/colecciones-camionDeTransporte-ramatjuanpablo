@@ -1,3 +1,7 @@
-object cosas {
+import camion.*
+
+object EmbalajeDeSeguridad{
     
+
+
 }
